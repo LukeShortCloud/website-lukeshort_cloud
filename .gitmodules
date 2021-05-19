@@ -1,0 +1,3 @@
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = git@github.com:your-identity/hugo-theme-dimension.git
