@@ -1,0 +1,15 @@
+---
+kind: Service
+apiVersion: v1
+metadata:
+  labels:
+    app: svc-website-lukeshort-cloud
+  name: svc-website-lukeshort-cloud
+spec:
+  ports:
+  - port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    app: deploy-website-lukeshort-cloud
+  type: ClusterIP
