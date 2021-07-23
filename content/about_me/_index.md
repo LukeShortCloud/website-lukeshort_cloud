@@ -9,11 +9,11 @@ description: Learn more about the personal life of Luke Short.
 
 Hello there!
 
-I'm Luke. I was named after Luke Skywalker (no joke) and also happen to really love Star Wars. At heart, I'm a true nerd. I love going to conventions such as DragonCon, MegaCon, Star Wars Celebration, and the Star Trek Cruise (yes, [it exists!](https://www.startrekthecruise.com/)). In my spare time, I enjoy playing programming, playing video games (such as Minecraft and Halo), playing table-top games (such as Dungeons and Dragons), and reading good technical books.
+I'm Luke. I was named after Luke Skywalker (no joke) and also happen to really love Star Wars. At heart, I'm a true nerd. I love going to conventions such as DragonCon, MegaCon, Star Wars Celebration, and the Star Trek Cruise (yes, [it exists!](https://www.startrekthecruise.com/)). In my spare time, I enjoy programming, playing video games (such as Minecraft and Halo), playing table-top games (such as Dungeons and Dragons), and reading good technical books.
 
 I lead many community groups, including CloudCFL and Kubernati, with a focus on improving our skills and encouraging others to bring out the best in themselves. I strongly believe that it's important to be part of the community because it's both inspiring and infectious to geek out with other like-minded folks. My mentees are equally mentors to me in return.
 
-After living in Orlando, Florida for most of my life, moving to Colorado was one of the best decisions I've ever made. With the outdoors, seasons, and mountains, there's almost nothing for me to complain about. One day soon, I hope to buy a house and set down some roots here.
+After living in Orlando, Florida for most of my life, moving to Colorado was one of the best decisions I ever made. With the outdoors, seasons, and mountains, there's almost nothing for me to complain about. One day soon, I hope to buy a house and set down some roots here.
 
 I'm a "beauty school drop out" (a la Grease). I dropped out of college to focus on real-world experiences and certifications (another one of the best decisions I've ever made). With over 8 years of cloud and development experience, I never stop trying to learn new skills (both technical and soft) to better help me on my journey through life. Currently, my full-time job at VMware is a role as a Senior Kubernetes Solutions Architect with a focus on technical pre-sales. Most of my demos, architecture design, development, and side projects are all done on my Chromebook. I'm very passionate about the entire Chrome OS ecosystem, which is why I'm also a [Technical Writer for Chrome Unboxed](https://chromeunboxed.com/author/luke/).
 
