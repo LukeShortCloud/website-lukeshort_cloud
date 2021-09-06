@@ -11,7 +11,7 @@ title: Contact
 - LinkedIn: [https://www.linkedin.com/in/luke-short-cloud/](https://www.linkedin.com/in/luke-short-cloud/)
 - Twitter: [@LukeShortCloud](https://twitter.com/LukeShortCloud)
 - Discord: LukeShortCloud#2309
-- GitHub: [ekultails](https://github.com/ekultails)
+- GitHub: [LukeShortCloud](https://github.com/LukeShortCloud)
 - Email: ekultails@gmail.com
 
 ---
