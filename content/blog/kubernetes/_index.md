@@ -7,6 +7,7 @@ logo: ../../images/blog/kubernetes/CleanIcons_anchor_size_256px_margin_25px_colo
 
 ![kubernetes](../../images/blog/kubernetes/CleanIcons_anchor_size_256px_margin_25px_color_ffffff.png)
 
+- [2021-10-06 | CKAD CKA CKS Allowed URLs and Bookmarks](kubernetes/#2021-10-06)
 - [2021-08-03 | CKS Exam Expectations](kubernetes/#2021-08-03)
 - [2021-05-18 | Tips to Help You Pass Any Kubernetes Exam](kubernetes/#2021-05-18)
 - [2021-04-18 | Free Ways to Use and Learn Kubernetes](kubernetes/#2021-04-18)
