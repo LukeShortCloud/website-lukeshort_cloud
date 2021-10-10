@@ -13,20 +13,20 @@ I focus on showcasing potential stakeholders the value of integrating Kubernetes
 
 # Work Experience
 
-- VMware - 2021 to Current
+- **VMware - 2021 to Current**
     - **Senior Kubernetes Solutions Architect**
         - Architecting and delivering hybrid cloud solutions.
         - Automating full end-to-end deployments of both infrastructure and applications.
         - Actively involved with technical pre-sales conversations with potential stakeholders.
         - Pair programming alongside stakeholders towards a cloud-native design.
-- Red Hat - 2017 to 2020
+- **Red Hat - 2017 to 2020**
     - **Cloud Architect**
         - Architecting and delivering hybrid cloud solutions.
         - Automating full end-to-end deployments of both infrastructure and applications.
     - **Senior Cloud Software Engineer**
         - Designing and developing deployment and life-cycle management tools for Kubernetes and OpenStack.
         - Meeting directly with stakeholders to discuss and iterate on feedback about our products.
-- HostDime - 2013 to 2017
+- **HostDime - 2013 to 2017**
     - **DevOps Engineer**
         - Architecting and delivering V.I.P. stakeholder solutions.
         - Implementing public and private clouds built with OpenStack.
