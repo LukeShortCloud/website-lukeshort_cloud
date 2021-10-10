@@ -38,6 +38,7 @@ I focus on showcasing potential stakeholders the value of integrating Kubernetes
 - Cloud
     - Certified Kubernetes Administrator (CKA)
     - Certified Kubernetes Application Developer (CKAD)
+    - Certified Kubernetes Security Specialist (CKS)
     - Red Hat Certified System Administrator in Red Hat OpenStack
 - Linux
     - Red Hat Certified Engineer (RHCE)
