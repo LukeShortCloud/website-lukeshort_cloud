@@ -59,7 +59,7 @@ I focus on showcasing potential stakeholders the value of integrating Kubernetes
     - Databases: MySQL/MariaDB, MongoDB, and PostgreSQL
     - Storage: Ceph, Gluster, NFS, iSCSI, and Samba
     - Automation: Ansible and Puppet
-    - Technical writing. Example: [my "Root Pages" notes](https://ekultails.github.io/rootpages/)
+    - Technical writing: [Root Pages notes](https://rootpages.lukeshort.cloud/)
 
 
 # Testimonials
