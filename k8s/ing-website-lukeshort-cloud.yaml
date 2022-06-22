@@ -4,7 +4,9 @@ apiVersion: networking.k8s.io/v1
 metadata:
   name: ing-website-lukeshort-cloud
   annotations:
+    acme.cert-manager.io/http01-edit-in-place: "true"
     cert-manager.io/cluster-issuer: "clusterissuer-letsencrypt-production"
+    cert-manager.io/issue-temporary-certificate: "true"
     nginx.org/redirect-to-https: "true"
     ingress.kubernetes.io/ssl-redirect: "true"
 spec:
