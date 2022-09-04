@@ -9,6 +9,14 @@ $ git submodule update --init
 $ hugo serve
 ```
 
+## Images
+
+Every blog post needs a featured image. Here is the workflow for finding and using an image:
+
+- Find a royalty free image on [Unsplash](https://unsplash.com/).
+- Use [Squoosh](https://squoosh.app/) to compress and resize the image to be under 300 KiB in size.
+- Move the image to `content/images/blog/<BLOG_CATEGORY>/<BLOG_DATE_ISO>-<BLOG_NAME>.jpg`.
+
 ## Customization Hints
 
 Double the logo picture circle border from "5.5rem" to "11.0rem" for both the "width" and "height" (5.5rem to 11.0rem).
