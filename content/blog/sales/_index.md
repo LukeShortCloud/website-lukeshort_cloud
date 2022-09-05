@@ -11,3 +11,4 @@ logo: ../../images/blog/sales/CleanIcons_handshake_size_256px_margin_25px_color_
 - [2021-09-29 | S.M.A.R.T. Proposals](sales/#2021-09-29)
 - [2021-08-11 | Dealing with Distratious Demos](sales/#2021-08-11)
 - [2021-07-23 | Speaking Their Language](sales/#2021-07-23)
+- [2022-09-04 | Sales Advice from the Experts](sales/#2022-09-04)
