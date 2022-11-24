@@ -7,6 +7,7 @@ logo: ../../images/blog/linux/CleanIcons_linux_size_256px_margin_25px_color_ffff
 
 ![linux](../../images/blog/linux/CleanIcons_linux_size_256px_margin_25px_color_ffffff.png)
 
+- [2022-11-24 | Better winesapOS Builds](linux/#2022-11-24)
 - [2021-05-03 | Book Musings - Star Wars: The High Republic](linux/#2021-05-03)
 - [2020-12-18 | Why I Ditched CentOS for Debian](linux/#2020-12-18)
 - [2020-12-14 | 3 FREE Drop-in Replacements for RHEL and CentOS 8](linux/#2020-12-14)
