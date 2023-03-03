@@ -14,6 +14,11 @@ I focus on showcasing potential stakeholders the value of integrating Kubernetes
 # Work Experience
 
 - **VMware - 2021 to Current**
+    - **Advisory Kubernetes Sales Engineer**
+        - Identifying stakeholders’ financial and technical challenges through on-going discovery sessions. 
+        - Challenging stakeholders to think differently about their problems and the value our solutions provide. 
+        - Creating custom cloud-native architecture, integration timelines, and defining success criteria. 
+        - Weekly product and value demonstrations to IT/engineering teams as well as C-level executives.
     - **Senior Kubernetes Solutions Architect**
         - Architecting and delivering hybrid cloud solutions.
         - Automating full end-to-end deployments of both infrastructure and applications.
