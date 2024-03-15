@@ -9,11 +9,15 @@ title: Resume
 - [Contact me](/#contact)
 - LinkedIn: https://www.linkedin.com/in/luke-short-cloud
 
-I focus on showcasing potential stakeholders the value of integrating Kubernetes and DevOps best practices for their organizations. By identifying their needs in the industry, I help guide them towards cloud-native solutions that will allow them to make money, save money, and reduce risk.
-
 # Work Experience
 
-- **VMware - 2021 to Current**
+- **Playtron - 2023 to Present**
+    - **Director of Linux Engineering**
+        - Creator of PlaytronOS.
+        - Leading research and development of open source technologies.
+        - Community liaison.
+        - Making next generation gaming experiences a reality.
+- **VMware - 2021 to 2022**
     - **Kubernetes Sales Engineer, Advisory**
         - Identifying stakeholders’ financial and technical challenges through on-going discovery sessions. 
         - Challenging stakeholders to think differently about their problems and the value our solutions provide. 
@@ -45,14 +49,17 @@ I focus on showcasing potential stakeholders the value of integrating Kubernetes
     - Certified Kubernetes Application Developer (CKAD)
     - Certified Kubernetes Security Specialist (CKS)
     - Red Hat Certified System Administrator in Red Hat OpenStack
+    - Certified Calico Operator
 - Linux
     - Red Hat Certified Engineer (RHCE)
     - Red Hat Certified System Administrator (RHCSA)
     - Red Hat Certificate of Expertise in Ansible Automation
+- Sales
+    - SPIN 3.0 Selling
 
 # Technical Expertise
 
-- 8+ years of experience with...
+- 10+ years of experience with...
     - Cloud: Kubernetes/OpenShift, AWS, and OpenStack
     - Virtualization: VMware vSphere, KVM, Xen, docker/containerd, and LXC/LXD
     - Programming: Go and Python
