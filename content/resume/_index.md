@@ -12,8 +12,8 @@ title: Resume
 # Work Experience
 
 - **Playtron - 2023 to Present**
-    - **Director of Linux Engineering**
-        - Creator of PlaytronOS.
+    - **VP of Linux Engineering**
+        - Creator of Playtron GameOS.
         - Leading research and development of open source technologies.
         - Community liaison.
         - Making next generation gaming experiences a reality.
@@ -59,7 +59,7 @@ title: Resume
 
 # Technical Expertise
 
-- 10+ years of experience with...
+- 12+ years of industry experience with...
     - Cloud: Kubernetes/OpenShift, AWS, and OpenStack
     - Virtualization: VMware vSphere, KVM, Xen, docker/containerd, and LXC/LXD
     - Programming: Go and Python
